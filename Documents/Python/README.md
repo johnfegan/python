@@ -1,0 +1,1 @@
+# A collection of random python scripts, mainly with an SEO focus. Individual README.md within
